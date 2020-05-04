@@ -1,2 +1,3 @@
-# dev_module
-A simple kernel module.
+# 
+A simple kernel module in FreeBSD.
+
